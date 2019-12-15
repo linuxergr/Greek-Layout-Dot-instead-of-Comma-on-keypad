@@ -6,7 +6,8 @@
 
 Στην συνέχεια ανοίγουμε ένα τερματικό και εκτελούμε την εντολή:
  
-*sudo cp gr /usr/share/X11/xkb/symbols/*
+
+* *sudo cp gr /usr/share/X11/xkb/symbols/* 
 
 όπως φαίνεται και στην εικόνα 
 
@@ -20,10 +21,12 @@
 
 και εκτελούμε στο τερματικό:
 
-*makepkg --syncdeps*
+
+* *makepkg --syncdeps* 
 
 και μετά:
 
-*makepkg install*
+
+* *makepkg install* 
 
 Στην συνέχεια κάνουμ επανεκκίνηση στο σύστημά μας και είμαστε έτοιμοι.
