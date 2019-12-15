@@ -8,7 +8,9 @@
  
 *sudo cp gr /usr/share/X11/xkb/symbols/*
 
-όπως φαίνεται και στην εικόνα ![Screenshot](https://i.imgur.com/74FBGUW.png)
+όπως φαίνεται και στην εικόνα 
+
+![Screenshot](https://i.imgur.com/74FBGUW.png)
 
 Κάνουμε επανεκκίνηση και μετά είμαστε έτοιμοι!
 
