@@ -1,4 +1,4 @@
-# Greek Layout Dot instead of Comma on Numerical Keypad
+# Ελληνικό αριθμητικό πληκτρολόγιο, τελεία αντί για κόμμα σε Linux / Greek Layout Dot instead of Comma on Numerical Keypad Linux
 
 Οδηγίες Εγκατάστασης:
 
