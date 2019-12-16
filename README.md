@@ -18,7 +18,7 @@
 
 -------------------------------------------------------------------------------
 
-Για Arch & Manjaro κατεβάζουμε το PKGBUILD από την διεύθυνση [https://gitlab.com/psposito/greek-layout-dot-instead-of-comma-on-keypad/-/tags](url)
+Για Arch & Manjaro κατεβάζουμε το PKGBUILD από την διεύθυνση [https://gitlab.com/psposito/greek-layout-dot-instead-of-comma-on-keypad/-/releases#1.0](url)
 
 και εκτελούμε στο τερματικό:
 
